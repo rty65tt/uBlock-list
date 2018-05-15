@@ -1,6 +1,6 @@
 www.youtube.com##.ytp-ce-element
-!www.youtube.com##div.ytp-ad-progress-list
-!www.youtube.com##div.ytp-ad-progress
+@@||www.youtube.com##.ytp-ad-progress-list
+@@||www.youtube.com##.ytp-ad-progress
 
 ##div.ytp-pause-overlay.ytp-scroll-min
 
