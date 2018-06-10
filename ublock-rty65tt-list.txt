@@ -12,3 +12,6 @@ coub.com##.-ui-state-paused.-state-paused.x2.viewer--v2.viewer > .contents > .-n
 
 ! 18.01.2018, 22:35:22 https://ok.ru/feed
 ok.ru##.b-context
+
+! 08.06.2018, 12:26:21 https://yandex.ru/ - remove Yandex Dzen (zen)
+yandex.ru##.media-grid__media-content
