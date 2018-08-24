@@ -18,5 +18,4 @@ ok.ru##.b-context
 yandex.ru##.media-grid__media-content
 
 
-! 24.08.2018, 13:05:09 https://coub.com
 
