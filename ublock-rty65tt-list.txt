@@ -8,7 +8,8 @@ www.youtube.com##.ytp-ce-element
 rus-linux.net###leadia-widget
 
 ! 15.01.2018, 21:13:26 http://coub.com/
-coub.com##.-ui-state-paused.-state-paused.x2.viewer--v2.viewer > .contents > .-no-select.viewer__controls__container > .-fill.viewer__sharing
+! coub.com##.-ui-state-paused.-state-paused.x2.viewer--v2.viewer > .contents > .-no-select.viewer__controls__container > .-fill.viewer__sharing
+coub.com##.viewer__suggests.-fill
 
 ! 18.01.2018, 22:35:22 https://ok.ru/feed
 ok.ru##.b-context
@@ -18,4 +19,4 @@ yandex.ru##.media-grid__media-content
 
 
 ! 24.08.2018, 13:05:09 https://coub.com
-coub.com##.viewer__suggests.-fill
+
