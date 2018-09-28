@@ -8,7 +8,7 @@ www.youtube.com##.ytp-ce-element
 rus-linux.net###leadia-widget
 
 ! 15.01.2018, 21:13:26 http://coub.com/
-coub.com##.-fill
+coub.com##.viewer__suggests.-fill
 
 ! 18.01.2018, 22:35:22 https://ok.ru/feed
 ok.ru##.b-context
