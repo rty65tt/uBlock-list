@@ -12,6 +12,7 @@ coub.com##.viewer__suggests.-fill
 
 ! 18.01.2018, 22:35:22 https://ok.ru/feed
 ok.ru##.b-context
+###hook_Block_FourthCol> div:nth-of-type(1)
 
 ! 08.06.2018, 12:26:21 https://yandex.ru/ - remove Yandex Dzen (zen)
 yandex.ru##.media-grid__media-content
